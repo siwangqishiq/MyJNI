@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 	static{
-		System.loadLibrary("mydemo");
+		System.loadLibrary("my");
 	}
 	private TextView textView;
 
